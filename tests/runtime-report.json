@@ -1,0 +1,96 @@
+{
+  "timestamp": "2026-02-19T13:03:16.190Z",
+  "base": "http://localhost:5174",
+  "results": [
+    {
+      "route": "/",
+      "url": "http://localhost:5174/",
+      "status": 200,
+      "errors": [],
+      "warnings": [],
+      "missing": [],
+      "screenshot": "tests/screenshots/home.png",
+      "pageTextSnippet": "\n    FSFeedbackSystemSign InThe Standard for Academic InsightCollect, analyze, and act on feedback with enterprise-grade insights. Transform your institution's feedback system.Student PortalAdmin Port"
+    },
+    {
+      "route": "/login",
+      "url": "http://localhost:5174/login",
+      "status": 200,
+      "errors": [],
+      "warnings": [],
+      "missing": [],
+      "screenshot": "tests/screenshots_login.png",
+      "pageTextSnippet": "\n    FSFeedback SystemPremium Student Evaluation PlatformAcademic insights that scaleCollect structured feedback, analyze trends, and improve outcomes with actionable dashboards.✓Secure single-sign on"
+    },
+    {
+      "route": "/student/dashboard",
+      "url": "http://localhost:5174/student/dashboard",
+      "status": 200,
+      "errors": [],
+      "warnings": [],
+      "missing": [],
+      "screenshot": "tests/screenshots_student_dashboard.png",
+      "pageTextSnippet": "\n    FSFeedbackSystemDashboardSubmit FeedbackResultsSign OutStudent DashboardTrack your feedback submissions and explore course evaluationsSubmissions0Avg Rating4.3Total Feedback6No submissions yetSta"
+    },
+    {
+      "route": "/student/forms",
+      "url": "http://localhost:5174/student/forms",
+      "status": 200,
+      "errors": [],
+      "warnings": [],
+      "missing": [],
+      "screenshot": "tests/screenshots_student_forms.png",
+      "pageTextSnippet": "\n    FSFeedbackSystemDashboardSubmit FeedbackResultsSign OutSubmit FeedbackShare your experience with courses and instructorsSelect CourseAdvanced React DevelopmentDr. Sarah JohnsonDatabase Design & S"
+    },
+    {
+      "route": "/student/results",
+      "url": "http://localhost:5174/student/results",
+      "status": 200,
+      "errors": [],
+      "warnings": [],
+      "missing": [],
+      "screenshot": "tests/screenshots_student_results.png",
+      "pageTextSnippet": "\n    FSFeedbackSystemDashboardSubmit FeedbackResultsSign OutFeedback ResultsView aggregated feedback and course ratingsTotal Feedback Submissions6Overall Average Rating4.33Courses Evaluated4Rating Dis"
+    },
+    {
+      "route": "/admin/dashboard",
+      "url": "http://localhost:5174/admin/dashboard",
+      "status": 200,
+      "errors": [],
+      "warnings": [],
+      "missing": [],
+      "screenshot": "tests/screenshots_admin_dashboard.png",
+      "pageTextSnippet": "\n    FSFeedbackSystemDashboardFeedbackCreate FormAnalyticsSign OutAdmin DashboardManage forms, track submissions, and analyze feedback insightsTotal Submissions6Active Courses4Average Rating4.3Instruc"
+    },
+    {
+      "route": "/admin/create-form",
+      "url": "http://localhost:5174/admin/create-form",
+      "status": 200,
+      "errors": [],
+      "warnings": [],
+      "missing": [],
+      "screenshot": "tests/screenshots_admin_create-form.png",
+      "pageTextSnippet": "\n    FSFeedbackSystemDashboardFeedbackCreate FormAnalyticsSign OutCreate Feedback FormAdd new courses for student evaluationCourse NameFull name of the course being evaluatedInstructor NameFull name o"
+    },
+    {
+      "route": "/admin/feedback",
+      "url": "http://localhost:5174/admin/feedback",
+      "status": 200,
+      "errors": [],
+      "warnings": [],
+      "missing": [],
+      "screenshot": "tests/screenshots_admin_feedback.png",
+      "pageTextSnippet": "\n    FSFeedbackSystemDashboardFeedbackCreate FormAnalyticsSign OutView All FeedbackReview and analyze student feedback submissionsTotal Feedback6Showing Results6Average Rating4.33Filter ResultsSearch "
+    },
+    {
+      "route": "/admin/analytics",
+      "url": "http://localhost:5174/admin/analytics",
+      "status": 200,
+      "errors": [],
+      "warnings": [],
+      "missing": [],
+      "screenshot": "tests/screenshots_admin_analytics.png",
+      "pageTextSnippet": "\n    FSFeedbackSystemDashboardFeedbackCreate FormAnalyticsSign OutFeedback ResultsComprehensive feedback analysis and insightsTotal Submissions6Average Ratings4.33Courses Evaluated4Instructors Rated4R"
+    }
+  ]
+}
