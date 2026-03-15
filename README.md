@@ -248,26 +248,3 @@ Test the application with different scenarios:
 ## 📄 License
 
 This project is created for academic purposes (FSAD-PS33: Student Feedback and Evaluation System).
-
-## 👨‍💻 Development Notes
-
-- **Hot Module Replacement (HMR)**: Files auto-reload during development
-- **ESLint**: Code quality checks configured
-- **Git**: Project ready for version control
-- **Build Output**: Optimized production bundle in `dist/` folder
-
-## 🤝 Contributing
-
-This is an academic project. For modifications:
-1. Create a feature branch
-2. Make your changes
-3. Test thoroughly
-4. Submit for review
-
----
-
-**Project Status**: ✅ Complete and Ready for Academic Review
-
-**Last Updated**: February 18, 2026
-
-**Version**: 1.0.0
